@@ -1,2 +1,0 @@
-# DemoProject
-hands-on purpose 
